@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning different types of languag
 - 📫 How to reach me ...
-www.facebook.com/dhakalsumit6
+https://www.facebook.com/dhakalsumit06
 www.twitter.com/dhakalsumit
 <!---
 dhakalsumit/dhakalsumit is a ✨ special ✨ repository because its `README.edits' (this file) appears on your GitHub profile.
