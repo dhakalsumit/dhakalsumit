@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dhakalsumeet123@gmail.com**
 
-- ⚡ Fun fact **I am interesting.**
+- ⚡ Fun fact **I can Sleep 24/7**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
