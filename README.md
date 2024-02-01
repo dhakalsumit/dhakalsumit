@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA,flutter**
 
-- 👯 I’m looking to collaborate on **flutter projects**
+- 👯 I’m looking to collaborate on **flutter projects **
 
 <!-- - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sachin-basnet-6934001b2/](https://www.linkedin.com/in/sachin-basnet-6934001b2/) -->
 
