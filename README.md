@@ -10,7 +10,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/sachin-basnet-6934001b2/](https://www.linkedin.com/in/sachin-basnet-6934001b2/) -->
 
-- 💬 Ask me about **flutter, DSA**
+- 💬 Ask me about **flutter**
 
 - 📫 How to reach me **dhakalsumeet123@gmail.com**
 
