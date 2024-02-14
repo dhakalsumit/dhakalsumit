@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kghsachin&label=Profile%20views&color=0e75b6&style=flat" alt="kghsachin" /> </p>
 
-- 🌱 I’m currently learning **DSA,flutter**
+- 🌱 I’m currently learning **flutter**
 
 - 👯 I’m looking to collaborate on **flutter projects**
 
